@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Privacy Policy : To do Random Reminder "
+title:  "Privacy Policy : To Do Random Reminder "
 date:   2025-01-27 00:00:01 +0900
 categories: jekyll update
 ---
